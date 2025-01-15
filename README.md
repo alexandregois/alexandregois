@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGQ5CzPskJHvg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720658013879?e=1740614400&v=beta&t=6BInfTRobXn9s8ycIIVf0rfFsQUFjKFXLZI-CUoRrEo" alt="Cabeçalho" style="width: 100%;" />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHN1kXFW-t5-g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736953259596?e=1742428800&v=beta&t=j3Sp5qqtidfvMgkjJOID0SolK92Jx2uqqX2Co9MFAgE" alt="Cabeçalho" style="width: 100%;" />
 
 
 ### Olá, sou Alexandre Gois 😊
@@ -52,12 +52,22 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=jav
 [![Corebuild](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://corebuild.com.br/)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/blog/pages/5373051795167924490)
 
-Mais de 15 anos de experiência em TI, sou um especialista no desenvolvimento de soluções móveis inovadoras e seguras, otimizadas para Android e iOS. Minha expertise inclui C#, .NET, Xamarin, React Native, Kotlin, Swift, Flutter, Fastlane e Maui, com foco em garantir alta performance e robustez. Tenho amplo conhecimento em integração de APIs REST, autenticação segura via JWT e OAuth, além manter a eficiência e a escalabilidade do código. 
+Desenvolvedor com mais de 15 anos de experiência em TI, especializado em soluções móveis, web e desktop.
+Tenho ampla experiência no desenvolvimento de aplicativos para Android e iOS, além de sistemas desktop e web. Trabalho com tecnologias como C#, .NET, Xamarin, Flutter, Swift, Kotlin, Maui e Delphi (desde a versão 7). Também tenho conhecimento em ferramentas Low-Code, como FlutterFlow e Bubble, e em integração de APIs REST, SOAP e WCF.
 
-Trabalho com automação de pipelines de CI/CD, utilizando Azure Repos e Pipelines, facilitando o gerenciamento contínuo e seguro de deploys para Google Play e Apple Store, minimizando erros e garantindo a entrega ágil. Também todo o ciclo de publicação de aplicativos, desde a criação das lojas até a liberação final. Além disso, possuo forte experiência em funcionalidades customizadas, como impressão via Bluetooth, biometria facial e geolocalização.
+Já atuei em várias etapas do desenvolvimento de software, desde a criação até a publicação de aplicativos nas lojas Google Play e Apple Store, incluindo automação de processos com Azure Pipelines. Minhas contribuições incluem a implementação de funcionalidades como impressão Bluetooth, biometria facial e geolocalização, sempre adaptando as soluções às necessidades dos clientes.
 
-Atuando com desenvolvimento Low-Code / No-Code para projetos próprios / freelancer, usando FlutterFlow e Bubble.<br/>
-Reforçando também estudos de Java + Spring Boot para back-end.
+Alguns projetos em que trabalhei:<br/>
+- Volkswagen (VW): Migração de um aplicativo para iOS nativo, atendendo a altos padrões de qualidade e segurança.<br/>
+- Banco Bradesco: Desenvolvimento de um aplicativo bancário em Java/Kotlin, focado em praticidade e segurança.<br/>
+- Gerdau: Criação de um ERP móvel integrado à AWS e APIs REST para ajudar na tomada de decisões.<br/>
+- Enel: Desenvolvimento de soluções personalizadas com Xamarin, incluindo integração de APIs e recursos de geolocalização.<br/>
 
-Sou colaborativo, adaptável e apaixonado por enfrentar novos desafios, sempre comprometido em entregar produtos de alta qualidade que agreguem valor significativo aos usuários e aos negócios.<br/><br/>
+O que mais posso fazer:<br/>
+Desenvolvimento de sistemas desktop com Delphi e Windows.<br/>
+Criação de soluções web e APIs REST, SOAP e WCF.<br/>
+Publicação e manutenção de aplicativos móveis, desde a configuração das lojas até a liberação final.<br/>
+Busco sempre trabalhar de forma colaborativa, entregando soluções úteis e práticas que ajudem a resolver os problemas dos clientes e melhorem a experiência dos usuários finais.
+
+GitHub: github.com/alexandregois<br/><br/>
 E-mail: alexandregois.ti@gmail.com
