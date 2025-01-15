@@ -70,4 +70,6 @@ Publicação e manutenção de aplicativos móveis, desde a configuração das l
 Busco sempre trabalhar de forma colaborativa, entregando soluções úteis e práticas que ajudem a resolver os problemas dos clientes e melhorem a experiência dos usuários finais.
 
 GitHub: github.com/alexandregois<br/><br/>
-E-mail: alexandregois.ti@gmail.com
+E-mail: alexandregois.ti@gmail.com<br/><br/>
+Empresa própria - https://corebuild.com.br/
+
