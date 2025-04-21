@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQF_s9DMdaZpSg/profile-displaybackgroundimage-shrink_350_1400/B4DZXOpydvG4AY-/0/1742928817648?e=1750291200&v=beta&t=9tCSe-zK8xyo1QBS3ueAdDBG_3SpipSK8iAR0BY_OeY" alt="Cabeçalho" style="width: 100%;" />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQEstF03xrDMog/profile-displaybackgroundimage-shrink_350_1400/B4DZY61G8KHAAY-/0/1744743725795?e=1750896000&v=beta&t=eVVZN4XWQrSrDW1-MxzfGpGQBzkGAwKOx1DTE3-ig5U" alt="Cabeçalho" style="width: 100%;" />
 
 
 ### Olá, sou Alexandre Gois 😊
