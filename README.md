@@ -35,6 +35,10 @@ src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&lo
 src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img align="center" alt="Javascript"
 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="Docker"
+src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img align="center" alt="Kubernetes"
+src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 <br/>
 
@@ -50,7 +54,7 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=jav
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandregois-ti/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/xf26dm)
 [![Corebuild](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://corebuild.com.br/)
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/blog/pages/5373051795167924490)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alexandregois.ti)
 
 Desenvolvedor com mais de 15 anos de experiência em TI, especializado em soluções móveis, web e desktop.
 Tenho ampla experiência no desenvolvimento de aplicativos para Android e iOS, além de sistemas desktop e web. Trabalho com tecnologias como C#, .NET, Xamarin, Flutter, Swift, Kotlin, Maui e Delphi (desde a versão 7). Também tenho conhecimento em ferramentas Low-Code, como FlutterFlow e Bubble, e em integração de APIs REST, SOAP e WCF.
@@ -69,7 +73,10 @@ Criação de soluções web e APIs REST, SOAP e WCF.<br/>
 Publicação e manutenção de aplicativos móveis, desde a configuração das lojas até a liberação final.<br/>
 Busco sempre trabalhar de forma colaborativa, entregando soluções úteis e práticas que ajudem a resolver os problemas dos clientes e melhorem a experiência dos usuários finais.
 
-GitHub: github.com/alexandregois<br/><br/>
+<br/>Artigos:<br/>
+https://medium.com/@alexandregois.ti/criando-uma-api-com-docker-mysql-e-kubernetes-no-windows-11-7055a0c4926f
+
+<br/>GitHub: github.com/alexandregois<br/><br/>
 E-mail: alexandregois.ti@gmail.com<br/><br/>
 Empresa própria - https://corebuild.com.br/
 
