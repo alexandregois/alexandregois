@@ -80,7 +80,16 @@ Publicação e manutenção de aplicativos móveis, desde a configuração das l
 Busco sempre trabalhar de forma colaborativa, entregando soluções úteis e práticas que ajudem a resolver os problemas dos clientes e melhorem a experiência dos usuários finais.
 
 <br/>Artigos:<br/>
-https://medium.com/@alexandregois.ti/criando-uma-api-com-docker-mysql-e-kubernetes-no-windows-11-7055a0c4926f
+<p>
+  <a href="https://medium.com/@alexandregois.ti/criando-uma-api-com-docker-mysql-e-kubernetes-no-windows-11-7055a0c4926f" target="_blank">
+    Criando uma API com Docker, MySQL e Kubernetes no Windows 11
+  </a>
+</p>
+<p>
+  <a href="https://medium.com/@alexandregois.ti/monitoramento-de-filas-com-azure-service-bus-rabbitmq-prometheus-e-grafana-usando-docker-895c4e5b1cb3" target="_blank">
+    Monitoramento de Filas com Azure Service Bus, RabbitMQ, Prometheus e Grafana usando Docker
+  </a>
+</p>
 
 <br/>GitHub: github.com/alexandregois<br/><br/>
 E-mail: alexandregois.ti@gmail.com<br/><br/>
