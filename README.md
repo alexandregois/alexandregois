@@ -1,5 +1,4 @@
-![2](https://github.com/user-attachments/assets/655281dd-461f-40e3-84df-25c34ca58379)
-
+![2](https://github.com/user-attachments/assets/48c426d1-7b9a-4378-b63b-e8b282d44c1f)
 
 
 ### Olá, sou Alexandre Gois 😊
