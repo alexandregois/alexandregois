@@ -1,4 +1,5 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQEstF03xrDMog/profile-displaybackgroundimage-shrink_350_1400/B4DZY61G8KHAAY-/0/1744743725795?e=1750896000&v=beta&t=eVVZN4XWQrSrDW1-MxzfGpGQBzkGAwKOx1DTE3-ig5U" alt="Cabeçalho" style="width: 100%;" />
+![2](https://github.com/user-attachments/assets/655281dd-461f-40e3-84df-25c34ca58379)
+
 
 
 ### Olá, sou Alexandre Gois 😊
